@@ -1,4 +1,4 @@
-# OOP_Problem1_Solution
+# DSI_Problem1_Solution
 
 This is a command Line Interface based solution. It aims at keeping track of the pieces of art that one consume.
 
